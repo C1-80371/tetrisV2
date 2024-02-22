@@ -1,4 +1,4 @@
-# React Tetris
+# React Tetris V1
 
 > Fully responsive tetris game built with ReactJS
 
